@@ -13,10 +13,6 @@
     "bin",
     "lib"
   ],
-  "author": {
-    "name": "T-Roc",
-    "email": "lxp_work@163.com"
-  },
   "keywords": [
     "zhurong-cli",
     "zr",
@@ -24,7 +20,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "latest",
     "chalk": "^4.1.1",
     "commander": "^7.2.0",
     "download-git-repo": "^3.0.2",
