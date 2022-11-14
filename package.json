@@ -1,5 +1,5 @@
 {
-  "name": "zhurong-cli",
+  "name": "ChrisWang-cli",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
@@ -14,8 +14,8 @@
     "lib"
   ],
   "keywords": [
-    "zhurong-cli",
-    "zr",
+    "ChrisWang-cli",
+    "CW",
     "脚手架"
   ],
   "license": "MIT",
