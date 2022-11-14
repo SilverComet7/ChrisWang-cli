@@ -1,6 +1,6 @@
 {
-  "name": "ChrisWang-cli",
-  "version": "1.0.4",
+  "name": "chriswang-cli",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -14,7 +14,7 @@
     "lib"
   ],
   "keywords": [
-    "ChrisWang-cli",
+    "chriswang-cli",
     "cw",
     "脚手架"
   ],

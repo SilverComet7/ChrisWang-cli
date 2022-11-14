@@ -1,13 +1,11 @@
-## 搭建一个简单的脚手架
-
 ### 安装
 
 ```shell
 # install it globally
-$ npm install -g ChrisWang-cli
+$ npm install -g chriswang-cli
 
 # or yarn
-$ yarn global add ChrisWang-cli
+$ yarn global add chriswang-cli
 ```
 
 ### 使用
