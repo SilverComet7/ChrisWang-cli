@@ -4,18 +4,18 @@
 
 ```shell
 # install it globally
-$ npm install -g zhurong-cli
+$ npm install -g ChrisWang-cli
 
 # or yarn
-$ yarn global add zhurong-cli
+$ yarn global add ChrisWang-cli
 ```
 
-### 使用 
+### 使用
 
-#### Quick Start 
+#### Quick Start
 
 ```shell
-$ zr create <name> [-f|--force]
+$ cw create <name> [-f|--force]
 ```
 
 #### Options
